@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-test
+I'm a master's student from the School of Computer Science and Technology at UESTC, majoring in Computer Technology. My research intrest includes computer vision, imgae fusion and snapshot compressive imaging.
