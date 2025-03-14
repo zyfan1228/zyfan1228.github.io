@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "ZhuoyaoFan / My Site"
+title                    : "ZhuoyaoFan / Welcome to My Site 😄"
 title_separator          : "-"
 name                     : &name "Zhuoyao Fan"
 description              : &description "-"
