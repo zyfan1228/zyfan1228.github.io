@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "ZhuoyaoFan / Welcome to My Site 😄"
+title                    : "Homepage / Welcome to My Site 😄"
 title_separator          : "-"
 name                     : &name "Zhuoyao Fan"
 description              : &description "-"
@@ -25,7 +25,7 @@ author:
   avatar           : "fzy_photo.jpg"
   name             : "Zhuoyao Fan"
   pronouns         : # example: "she/her"  
-  bio              : "A cat lover"
+  bio              : "A cat lover and a AI lover"
   location         : "Chengdu, China"
   employer         : "UESTC"
   uri              : # URL
