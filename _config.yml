@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Homepage / Welcome to My Site 😄"
+title                    : "Zhuoyao Fan / Welcome to My Site 😄"
 title_separator          : "-"
 name                     : &name "Zhuoyao Fan"
 description              : &description "-"
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "fzy_photo.jpg"
-  name             : "Zhuoyao Fan"
+  name             : "Zhuoyao Fan (范倬摇)"
   pronouns         : # example: "she/her"  
   bio              : "A cat lover and a AI lover"
   location         : "Chengdu, China"
