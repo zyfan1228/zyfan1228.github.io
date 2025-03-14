@@ -6,10 +6,7 @@ I'm Zhuoyao Fan, a master's student from the School of Computer Science and Engi
 
 My research intrest includes computer vision, image fusion and snapshot compressive imaging.
 
-# 
-
-
 # News
 
-...
+Coming soon...
 
