@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "fzy_photo.jpg"
-  name             : "Zhuoyao Fan (范倬摇)"
+  avatar           : "fzy_trip_photo.jpg"
+  name             : "Zhuoyao Fan"
   pronouns         : # example: "she/her"  
-  bio              : "A cat lover and a AI lover"
+  bio              : "A cat🐱 lover and an AI learner"
   location         : "Chengdu, China"
   employer         : "UESTC"
   uri              : # URL
